@@ -1,0 +1,14 @@
+The cv means computer vision which is supported in C, c++, python languages.
+We can simply give a vision to a computer in order to understand the images which you give to it.
+
+It is used in detection of images and locations.
+
+
+Our computer sees all our images in a form of matrix.
+
+The matrices in python are used efficiently using numpy.
+
+pip install opencv-python
+
+The above line of code can download the cv library.
+
